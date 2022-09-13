@@ -18,4 +18,8 @@ Change the background color
 
 ### [Walk Key](https://github.com/Laande/extensions/tree/master/Walk%20Key)
 
-Walk with your keyborad
+Walk with your keyboard
+
+### [Click Through](https://github.com/Laande/extensions/tree/master/Click%20Through)
+
+Let you click on user and walk in
